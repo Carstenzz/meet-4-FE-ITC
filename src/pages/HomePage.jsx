@@ -1,5 +1,5 @@
-import Button from "../component/Button.jsx";
-import Card from "../component/Card.jsx";
+import Button from "../component/button/Button.jsx";
+import Card from "../component/card/Card.jsx";
 
 function HomePage() {
 	const user = "Fufufafa";
